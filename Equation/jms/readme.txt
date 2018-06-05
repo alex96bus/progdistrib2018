@@ -4,8 +4,7 @@
 2. Se porneste serverul de mesagerie cu "startmq" din JMS2/OpenMQ si se lasa fereastra in jos
 3. In Cmd din folderul JMS2/OpenMQ execut cpath
 4. Execut spath
-5. In Cmd din folderul equation execut javac src/*.java
-6. Execut exec -> imi deschide 3 ferestre: una pt server, una pt sender si una pt receiver
+5. In Cmd din folderul equation execut exec
 7. Introduc in sender valoarea lui "n" si a topicului
 8. In fereastra server vad ca a aparut un mesaj
 9. In fereastra receiver introduc topic-ul si primesc raspunsul lui equation(n)
